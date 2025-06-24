@@ -19,7 +19,7 @@ A Python-based simulation system that mimics real-time monitoring of temperature
 - **logging** – System alert log
 - **modular scripts** – for sensors, logic, alerts, and UI
 
--  Author
+## Author
 Santiago Carranza
 Engineer | Technician | Python Learner
 Based in Budapest • Passionate about Automation & Test Engineering
